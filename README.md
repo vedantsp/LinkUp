@@ -1,14 +1,12 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Sign Up Page](/frontend/public/Screenshot%201.png)
 
-![Sign Up Page]
+![Choose any theme](/frontend/public/Screenshot%202.png)
 
-![Choose any theme]
+![Login Page](/frotend/public/Screenshot%203.png)
 
-![Login Page]
-
-![Chats between 2 users]
+![Chat between 2 users](/frontend/public/Screenshot%204.png)
 
 Highlights:
 
