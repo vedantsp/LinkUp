@@ -2,7 +2,13 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+![Sign Up Page]
+
+![Choose any theme]
+
+![Login Page]
+
+![Chats between 2 users]
 
 Highlights:
 
