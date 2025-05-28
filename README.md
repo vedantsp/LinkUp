@@ -1,5 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+## Sign Up Page
 ![Sign Up Page](/frontend/public/Screenshot%201.png)
 
 ![Choose any theme](/frontend/public/Screenshot%202.png)
