@@ -18,13 +18,13 @@ LinkUp is a full-stack, real-time messaging application designed for seamless co
 
 Key Features:
 
-🔹Authentication & Authorization with JWT: Secure user authentication and role-based authorization, allowing users to sign up, log in, and access different features based on their permissions.
-🔹Real-time Messaging with Socket.io: Send and receive messages instantly, ensuring that users can chat in real-time without delays. Socket.io powers live communication for a responsive user experience.
-🔹Online User Status: Keep track of user activity with an online status feature that shows which users are currently active in the chat.
-🔹Global State Management with Zustand: Efficiently manage application state on the client side with Zustand, ensuring smooth user interactions without unnecessary re-renders.
-🔹Error Handling on Both Server & Client: Robust error handling mechanisms that capture and address any issues that might arise, ensuring a stable experience for users on both the client and server sides.
-🔹Responsive UI with TailwindCSS & DaisyUI: A sleek, modern, and responsive UI built with TailwindCSS and enhanced with DaisyUI components, making the application visually appealing and easy to navigate on any device.
-🔹Free Deployment: Learn how to deploy your application professionally and for free, with cloud hosting platforms, ensuring that your app is always available to users.
+-🔹Authentication & Authorization with JWT: Secure user authentication and role-based authorization, allowing users to sign up, log in, and access different features based on their permissions.
+-🔹Real-time Messaging with Socket.io: Send and receive messages instantly, ensuring that users can chat in real-time without delays. Socket.io powers live communication for a responsive user experience.
+-🔹Online User Status: Keep track of user activity with an online status feature that shows which users are currently active in the chat.
+-🔹Global State Management with Zustand: Efficiently manage application state on the client side with Zustand, ensuring smooth user interactions without unnecessary re-renders.
+-🔹Error Handling on Both Server & Client: Robust error handling mechanisms that capture and address any issues that might arise, ensuring a stable experience for users on both the client and server sides.
+-🔹Responsive UI with TailwindCSS & DaisyUI: A sleek, modern, and responsive UI built with TailwindCSS and enhanced with DaisyUI components, making the application visually appealing and easy to navigate on any device.
+-🔹Free Deployment: Learn how to deploy your application professionally and for free, with cloud hosting platforms, ensuring that your app is always available to users.
 
 Highlights:
 
